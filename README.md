@@ -12,8 +12,16 @@ Users should:
 
 - View the optimal layout for the site depending on their device's screen size
 
-## Technologies Used
+## The challenge URL
+
+https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
+
+## Technologies used
 
 - HTML5
 - CSS3
 - Bootstrap 4
+
+## Live URL of solution
+
+https://four-card-feature-section.pranshudobhal.now.sh/
